@@ -47,4 +47,4 @@ Node.js and npm (Node Package Manager) installed on your machine.
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
 
-[Vist at Git Page] : (https://github.com/Anshul1501/MoneyBank-Redux.git)
+[Vist at Git Page] : (https://anshul1501.github.io/MoneyBank-Redux/)
